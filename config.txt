@@ -1,6 +1,6 @@
-token=NDc3NjA3ODAwMDM0Mjk1ODIw.Dk-nyg.ws5o1Q5ZPsz1UxhiexHPcPtSvAk
+token=NDc3Njg5MzY3MzE4NjI2MzA2.Dk_yeg.sV8nLhvx03fl8_AqfUW0_UNBKW0
 owner=246220920199446528
-prefix=1
+prefix=4
 game=𝓡 𝐒𝐐𝐔𝐀𝐃
 stayinchannel=true
 songinstatus=true
